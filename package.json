@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "nodemon": "nodemon -e --exec \"npm run start\""
+    "dev": "nodemon -e --exec \"npm run start\""
   },
   "author": "Chang-suk",
   "license": "ISC",
